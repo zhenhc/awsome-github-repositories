@@ -4,9 +4,7 @@
 ### 资料教程类
 
 - **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** ：A complete computer science study plan to become a software engineer.
-
 - **[CS-Notes](https://github.com/CyC2018/CS-Notes)**：📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
 - **[JavaGuide](https://github.com/Snailclimb/JavaGuide)**：「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - **[Python-100-Days](https://github.com/jackfrued/Python-100-Days)**：Python - 100天从新手到大师
 - **[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)**：Master the command line, in one page
@@ -14,22 +12,21 @@
 - **[advanced-java](https://github.com/doocs/advanced-java)**：😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - **[mall-learning](https://github.com/macrozheng/mall-learning)**：mall学习教程，架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。
 - **[ JavaFamily](https://github.com/AobingJava/JavaFamily)**：【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-
 - **[ SpringAll](https://github.com/wuyouzhuguli/SpringAll)**：循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：[https://mrbird.cc](https://mrbird.cc/)
-
 - **[ toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)**：To Be Top Javaer - Java工程师成神之路
 - **[interview](https://github.com/huihut/interview)**：📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
-
 - **[ athena](https://github.com/ZhongFuCheng3y/athena)**：📓Java后端知识图谱
-
 - **[ SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)**：一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - **[ Python](https://github.com/walter201230/Python)**：最良心的 Python 教程：
+- **[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**：🔗 Some useful websites for programmers.
+- **[ gold-miner](https://github.com/xitu/gold-miner)**：🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
 ### 算法类
 
 - **[Python](https://github.com/TheAlgorithms/Python)**：All Algorithms implemented in Python
 - **[Java](https://github.com/TheAlgorithms/Java)**：All Algorithms implemented in Java
 - **[algs4](https://github.com/kevin-wayne/algs4)**：Algorithms, 4th edition textbook code and libraries
+- **[ fucking-algorithm](https://github.com/labuladong/fucking-algorithm)**：刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ### 实战项目类
 
