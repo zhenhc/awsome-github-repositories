@@ -1,4 +1,5 @@
 # awsome-github-repository
+
 曾经帮助过我，以及正在帮助我，未来仍将会帮助我的github仓库地址
 
 ### 资料教程类
@@ -31,53 +32,50 @@
 ### 实战项目类
 
 - **[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)**：🎉 A magical vue admin
-
 - **[java-design-patterns](https://github.com/iluwatar/java-design-patterns)**：Design patterns implemented in Java
-
 - **[mall](https://github.com/macrozheng/mall)**：mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - **[ RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue)**：🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
-
 - **[spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)**：about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
-
 - **[ spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)**：该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、ema…
-
 - **[Python](https://github.com/geekcomputers/Python)**：My Python Examples
 - **[ vhr](https://github.com/lenve/vhr)**：微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
 - **[ SpringAll](https://github.com/wuyouzhuguli/SpringAll)**：循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：[https://mrbird.cc](https://mrbird.cc/)
-
 - **[ halo](https://github.com/halo-dev/halo)**：✍ 一款现代化的开源博客/CMS系统。
 - **[ xxl-job](https://github.com/xuxueli/xxl-job)**：A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-
 - **[ eladmin](https://github.com/elunez/eladmin)**：项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-
 - **[ lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)**：一个基于 electron 的音乐软件
-
 - **[dataease](https://github.com/dataease/dataease)**：人人可用的开源数据可视化分析工具。
 - **[ zfile](https://github.com/zhaojun1998/zfile)**：在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai
 - **[ eladmin-web](https://github.com/elunez/eladmin-web)**：eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
 - **[shopizer](https://github.com/shopizer-ecommerce/shopizer)**：Shopizer java e-commerce software
+- [hexo](https://github.com/hexojs/hexo)：A fast, simple & powerful blog framework, powered by Node.js.
 
 ### 源码阅读类
 
 - **[spring-boot](https://github.com/spring-projects/spring-boot)**：Spring Boot
-
 - **[elasticsearch](https://github.com/elastic/elasticsearch)**：Free and Open, Distributed, RESTful Search Engine
-
 - **[redis](https://github.com/redis/redis)**：Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-
 - **[ guava](https://github.com/google/guava)**：Google core libraries for Java
 - **[ netty](https://github.com/netty/netty)**：Netty project - an event-driven asynchronous network application framework
+
+### 安卓项目类
+
+- **[jadx](https://github.com/skylot/jadx)**：Dex to Java decompiler
+- [scrcpy](https://github.com/Genymobile/scrcpy)：Display and control your Android device
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe)：A libre lightweight streaming front-end for Android.
 
 ### 有趣项目类
 
 - **[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)**：🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
 - **[PowerToys](https://github.com/microsoft/PowerToys)**：Windows system utilities to maximize productivity
 - **[ httpie](https://github.com/httpie/httpie)**：As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - **[12306](https://github.com/testerSunshine/12306)**：12306智能刷票，订票
 - **[ Mindustry](https://github.com/Anuken/Mindustry)**：The automation tower defense game
 - **[ free-python-games](https://github.com/grantjenks/free-python-games)**：Free Python Games
+- **[rich](https://github.com/Textualize/rich)**：Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [scrapy](https://github.com/scrapy/scrapy)：Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [netdata](https://github.com/netdata/netdata)：Real-time performance monitoring, done right! [https://www.netdata.cloud](https://www.netdata.cloud/)（监控linux操作系统）
+- [you-get](https://github.com/soimort/you-get)：⏬ Dumb downloader that scrapes the web
 
 ### 其他教程网址链接
 
