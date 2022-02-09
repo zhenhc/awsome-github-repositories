@@ -76,6 +76,7 @@
 - [scrapy](https://github.com/scrapy/scrapy)：Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [netdata](https://github.com/netdata/netdata)：Real-time performance monitoring, done right! [https://www.netdata.cloud](https://www.netdata.cloud/)（监控linux操作系统）
 - [you-get](https://github.com/soimort/you-get)：⏬ Dumb downloader that scrapes the web
+- [slidev](https://github.com/slidevjs/slidev)：Presentation Slides for Developers (Beta)
 
 ### 其他教程网址链接
 
