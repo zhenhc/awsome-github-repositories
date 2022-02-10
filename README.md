@@ -28,6 +28,7 @@
 - **[Java](https://github.com/TheAlgorithms/Java)**：All Algorithms implemented in Java
 - **[algs4](https://github.com/kevin-wayne/algs4)**：Algorithms, 4th edition textbook code and libraries
 - **[ fucking-algorithm](https://github.com/labuladong/fucking-algorithm)**：刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ### 实战项目类
 
