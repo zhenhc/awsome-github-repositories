@@ -21,7 +21,7 @@
 - **[ Python](https://github.com/walter201230/Python)**：最良心的 Python 教程：
 - **[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**：🔗 Some useful websites for programmers.
 - **[ gold-miner](https://github.com/xitu/gold-miner)**：🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)：30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
 ### 算法类
 
 - **[Python](https://github.com/TheAlgorithms/Python)**：All Algorithms implemented in Python
