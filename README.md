@@ -65,6 +65,9 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy)：Display and control your Android device
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)：A libre lightweight streaming front-end for Android.
 
+### JavaScript项目相关
+- [d3](https://github.com/d3/d3)：Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [three.js](https://github.com/mrdoob/three.js)：JavaScript 3D Library.
 ### 有趣项目类
 
 - **[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)**：🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
