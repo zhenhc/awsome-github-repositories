@@ -81,7 +81,7 @@
 - [netdata](https://github.com/netdata/netdata)：Real-time performance monitoring, done right! [https://www.netdata.cloud](https://www.netdata.cloud/)（监控linux操作系统）
 - [you-get](https://github.com/soimort/you-get)：⏬ Dumb downloader that scrapes the web
 - [slidev](https://github.com/slidevjs/slidev)：Presentation Slides for Developers (Beta)
-
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg)：FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 ### 其他教程网址链接
 
 - **[廖雪峰的官方网站](https://www.liaoxuefeng.com/)**
