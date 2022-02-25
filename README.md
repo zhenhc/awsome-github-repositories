@@ -51,6 +51,8 @@
 - **[shopizer](https://github.com/shopizer-ecommerce/shopizer)**：Shopizer java e-commerce software
 - [hexo](https://github.com/hexojs/hexo)：A fast, simple & powerful blog framework, powered by Node.js.
 
+### 前端项目类
+- [HasChat](https://gitee.com/howcode/has-chat)：一款极简聊天应用，比较完整，略好看
 ### 源码阅读类
 
 - **[spring-boot](https://github.com/spring-projects/spring-boot)**：Spring Boot
@@ -82,6 +84,10 @@
 - [you-get](https://github.com/soimort/you-get)：⏬ Dumb downloader that scrapes the web
 - [slidev](https://github.com/slidevjs/slidev)：Presentation Slides for Developers (Beta)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg)：FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [mermaid](https://github.com/mermaid-js/mermaid)：Generation of diagram and flowchart from text in a similar manner as markdown
+### 文档网站生成器
+- [docusaurus](https://github.com/facebook/docusaurus)：Easy to maintain open source documentation websites.
+- [docsify](https://github.com/docsifyjs/docsify)：🃏 A magical documentation site generator.
 ### 其他教程网址链接
 
 - **[廖雪峰的官方网站](https://www.liaoxuefeng.com/)**
